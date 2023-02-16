@@ -15,9 +15,9 @@ const Home = () => {
             I'm a Front End Developer
           </h2>
           <p className="text-purple-200 py-4 max-w-md">
-          Busco un puesto desafiante que me permita crecer en lo que 
-          me apasiona que es el desarrollo web y seguir capacitándome 
-          cada vez en el campo dinámico de la tecnología de la información.
+          I am looking for a challenging position that allows me to grow in what
+           I am passionate about, which is web development, and to continue learning 
+           in the dynamic field of information technology.
           </p>
 
           <div>
