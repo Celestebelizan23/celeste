@@ -32,7 +32,7 @@ const NavBar = () => {
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
     
 
-      <ul className="hidden md:flex mx-auto">
+    <ul className="hidden md:flex mx-auto">
         {links.map(({ id, link }) => (
           <li
             key={id}
