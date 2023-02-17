@@ -4,11 +4,11 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-purple-900 to-black text-white"
-    >
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4  border-purple-400">
+      className="w-full min-h-screen bg-gradient-to-b from-purple-900 to-black text-white flex flex-col justify-center"
+    > 
+      <div className="max-w-screen-lg mx-auto p-4 h-full flex flex-col justify-center flex-grow">
+        <div className="pb-4 md:pb-8">
+          <p className="text-4xl md:text-5xl font-bold inline border-b-4 border-purple-400 leading-tight md:leading-normal">
          About
           </p>
         </div>
